@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				360,
+				360
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				398,
+				360
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sad Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				395,
+				359
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sad Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				396,
+				359
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sad Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				396,
+				357
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sad Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				395,
+				356
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sad Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		142,
+		146
+	],
+	"camera_position": [
+		-20,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

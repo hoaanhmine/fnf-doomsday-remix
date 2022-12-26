@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bla.png">
+<SubTexture name="bla l0000" x="0" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla l0001" x="0" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla l0002" x="1500" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla l0003" x="0" y="1500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla u0000" x="1500" y="1500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla u0001" x="3000" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla u0002" x="3000" y="1500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla u0003" x="3000" y="1500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla r0000" x="0" y="3000" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla r0001" x="0" y="3000" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla r0002" x="1500" y="3000" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla r0003" x="3000" y="3000" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla d0000" x="4500" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla d0001" x="4500" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla d0002" x="4500" y="1500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla d0003" x="4500" y="3000" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0000" x="0" y="4500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0001" x="1500" y="4500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0002" x="1500" y="4500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0003" x="3000" y="4500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0004" x="3000" y="4500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0005" x="4500" y="4500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0006" x="6000" y="0" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0007" x="6000" y="1500" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bla i0008" x="6000" y="3000" width="1500" height="1500" frameX="0" frameY="0" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Doomsday-remix", "darkward", [103, 174, 175]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "The Misty Morning",
+	"difficulties": "Hard",
+	"weekBefore": "tutorial",
+	"weekName": "Teuthida",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
